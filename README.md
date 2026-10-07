@@ -50,5 +50,4 @@ Não venho da computação: aprendi a programar construindo soluções para prob
 ---
 
 ### 📫 Contato
-
-[LinkedIn](https://www.linkedin.com/in/SEU-PERFIL) · 📍 Curitiba/PR
+[LinkedIn](https://www.linkedin.com/in/joao-gabriel-bora-44a199142) · 📍 Curitiba/PR
